@@ -2,7 +2,7 @@
 
 > A 92-day, hands-on learning journey from **1 October to 31 December 2026**. I’m documenting what I learn, build, and improve as I develop practical cybersecurity skills.
 
-[![Learning in public](https://img.shields.io/badge/learning-in-public-blue)](https://github.com/)
+[![Learning in Public](https://img.shields.io/badge/Learning%20in%20Public-Cybersecurity%20Journey-blue)](https://github.com/your-username/cybersecurity-journey-2026)
 
 **Status:** In progress · **Day:** [06]/92 · **Focus:** [Networking]
 
