@@ -18,35 +18,83 @@ By the end of this journey, I aim to be able to:
 - Prepare for an entry-level SOC analyst or junior cybersecurity analyst role.
 - Complete a public portfolio of hands-on labs, security tools, investigation write-ups, and a final capstone project.
 
-## The five phases
+<h2>The five phases</h2>
 
-|       Phase                 | Days  |                          Focus                                    |         Outcome          |
+<table>
+  <thead>
+    <tr>
+      <th>Phase</th>
+      <th>Days</th>
+      <th>Focus</th>
+      <th>Outcome</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1. Foundations</td>
+      <td>1–14</td>
+      <td>Linux, networking, security basics, Git, and command line</td>
+      <td>[Outcome or release link]</td>
+    </tr>
+    <tr>
+      <td>2. Blue-team skills</td>
+      <td>15–32</td>
+      <td>Logs, Wireshark, SIEM concepts, detection, and SOC workflows</td>
+      <td>[Outcome or release link]</td>
+    </tr>
+    <tr>
+      <td>3. Offensive security</td>
+      <td>33–50</td>
+      <td>Web security, vulnerability assessment, and ethical testing labs</td>
+      <td>[Outcome or release link]</td>
+    </tr>
+    <tr>
+      <td>4. Automation and response</td>
+      <td>51–72</td>
+      <td>Python and Bash tooling, incident response, and home SOC work</td>
+      <td>[Outcome or release link]</td>
+    </tr>
+    <tr>
+      <td>5. Capstone and career prep</td>
+      <td>73–92</td>
+      <td>Capstone, portfolio polish, interview preparation, and reflection</td>
+      <td>[Outcome or release link]</td>
+    </tr>
+  </tbody>
+</table>
 
-| 1. Foundations              | 1–14  | Linux, networking, security basics, Git, and command line         | [Outcome / release link] |
-| 2. Blue-team skills         | 15–32 | Logs, Wireshark, SIEM concepts, detection, and SOC workflows      | [Outcome / release link] |
-| 3. Offensive security       | 33–50 | Web security, vulnerability assessment, and ethical testing labs  | [Outcome / release link] |
-| 4. Automation and response  | 51–72 | Python and Bash tooling, incident response, and home SOC work     | [Outcome / release link] |
-| 5. Capstone and career prep | 73–92 | Capstone, portfolio polish, interview preparation, and reflection | [Outcome / release link] |
+<p>See the <a href="roadmap.md">short roadmap</a> for the 92-day plan.</p>
 
-See the [short roadmap](roadmap.md) for the 92-day plan.
 
-## Progress
+<h2>Progress</h2>
 
-| Week | Topic | Progress / highlights | Link |
+<p>Update this table at the end of each week. Link each entry to its weekly summary, notes, or main artifact.</p>
 
-| 01 | [Topic] | [What I learned or made] | [Week 01](weekly/week-01.md) |
-| 02 | [Topic] | [What I learned or made] | [Week 02](weekly/week-02.md) |
-| 03 | [Topic] | [What I learned or made] | [Week 03](weekly/week-03.md) |
-| 04 | [Topic] | [What I learned or made] | [Week 04](weekly/week-04.md) |
-| 05 | [Topic] | [What I learned or made] | [Week 05](weekly/week-05.md) |
-| 06 | [Topic] | [What I learned or made] | [Week 06](weekly/week-06.md) |
-| 07 | [Topic] | [What I learned or made] | [Week 07](weekly/week-07.md) |
-| 08 | [Topic] | [What I learned or made] | [Week 08](weekly/week-08.md) |
-| 09 | [Topic] | [What I learned or made] | [Week 09](weekly/week-09.md) |
-| 10 | [Topic] | [What I learned or made] | [Week 10](weekly/week-10.md) |
-| 11 | [Topic] | [What I learned or made] | [Week 11](weekly/week-11.md) |
-| 12 | [Topic] | [What I learned or made] | [Week 12](weekly/week-12.md) |
-| 13 | [Topic] | [What I learned or made] | [Week 13](weekly/week-13.md) |
+<table>
+  <thead>
+    <tr>
+      <th>Week</th>
+      <th>Topic</th>
+      <th>Progress / highlights</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>01</td><td>[Topic]</td><td>[What I learned or made]</td><td><a href="weekly/week-01.md">Week 01</a></td></tr>
+    <tr><td>02</td><td>[Topic]</td><td>[What I learned or made]</td><td><a href="weekly/week-02.md">Week 02</a></td></tr>
+    <tr><td>03</td><td>[Topic]</td><td>[What I learned or made]</td><td><a href="weekly/week-03.md">Week 03</a></td></tr>
+    <tr><td>04</td><td>[Topic]</td><td>[What I learned or made]</td><td><a href="weekly/week-04.md">Week 04</a></td></tr>
+    <tr><td>05</td><td>[Topic]</td><td>[What I learned or made]</td><td><a href="weekly/week-05.md">Week 05</a></td></tr>
+    <tr><td>06</td><td>[Topic]</td><td>[What I learned or made]</td><td><a href="weekly/week-06.md">Week 06</a></td></tr>
+    <tr><td>07</td><td>[Topic]</td><td>[What I learned or made]</td><td><a href="weekly/week-07.md">Week 07</a></td></tr>
+    <tr><td>08</td><td>[Topic]</td><td>[What I learned or made]</td><td><a href="weekly/week-08.md">Week 08</a></td></tr>
+    <tr><td>09</td><td>[Topic]</td><td>[What I learned or made]</td><td><a href="weekly/week-09.md">Week 09</a></td></tr>
+    <tr><td>10</td><td>[Topic]</td><td>[What I learned or made]</td><td><a href="weekly/week-10.md">Week 10</a></td></tr>
+    <tr><td>11</td><td>[Topic]</td><td>[What I learned or made]</td><td><a href="weekly/week-11.md">Week 11</a></td></tr>
+    <tr><td>12</td><td>[Topic]</td><td>[What I learned or made]</td><td><a href="weekly/week-12.md">Week 12</a></td></tr>
+    <tr><td>13</td><td>[Topic]</td><td>[What I learned or made]</td><td><a href="weekly/week-13.md">Week 13</a></td></tr>
+  </tbody>
+</table>
 
 
 ## Projects
@@ -71,9 +119,9 @@ See the [short roadmap](roadmap.md) for the 92-day plan.
 
 
 
-|          Project          |                       Preview                             |
+|          Project          |                       Preview                             | <br>
 
-| [Project name](projects/) | ![Screenshot description](screenshots/project-name.png) |
+| [Project name](projects/) | ![Screenshot description](screenshots/project-name.png) |    <br>
 | [Project name](projects/) | ![Screenshot description](screenshots/another-project.png) |
 
 ## Repository map
@@ -103,7 +151,7 @@ See the [short roadmap](roadmap.md) for the 92-day plan.
 
 ## Contact
 
-- **GitHub:** [(https://github.com/your-username)](https://github.com/Yashasw-i)
+- **GitHub:** https://github.com/Yashasw-i
 - **LinkedIn:** www.linkedin.com/in/yashaswi-kalva
 
 ---
